@@ -38,7 +38,10 @@ body {
     align-items: center;
     padding: 40px 0 0;
 }
-
+.header-banner img {
+    max-width: 30%; /* La imagen ocupará como máximo el 30% del ancho del contenedor */
+    height: auto;
+}
 /* Sección de entrada */
 .input-section {
     flex: 60%;
