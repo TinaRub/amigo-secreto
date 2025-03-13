@@ -11,10 +11,11 @@ Estado del proyecto: en perfeccionamiento.
 
 ## Cómo usar
 
-1.  Clona este repositorio en tu máquina local.
+1.  Copia este repositorio en tu máquina local.
 2.  Abre el archivo `index.html` en tu navegador web.
 3.  Ingresa los nombres de tus amigos en el campo de texto y haz clic en "Añadir".
 4.  Haz clic en "Sortear amigo" para ver el resultado del sorteo.
+5.  Coloca los archivos amigo-secreto.png y play_circle_outline.png dentro de una carpeta con el nombre "assets" en el mismo lugar donde copiaste el resto de los archivos.
 
 ## Estructura del proyecto
 
