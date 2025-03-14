@@ -22,7 +22,7 @@ Estado del proyecto: en perfeccionamiento.
 * `index.html`: Estructura HTML de la aplicación.
 * `style.css`: Estilos CSS de la aplicación.
 * `app.js`: Lógica JavaScript de la aplicación.
-* `assets/`: Carpeta que contiene imágenes utilizadas en la aplicación.
+
 
 ## Tecnologías utilizadas
 
